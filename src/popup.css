@@ -1,0 +1,26 @@
+body {
+	min-width: 400px;
+	overflow-x: hidden;
+	background-color: #F0F0F0;
+}
+
+#usuarioLogado {
+	background-color: #F3F79C;
+}
+
+.detalhesComentario {
+	cursor: pointer;
+	background-color: #9ED3FF;
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+.resposta {
+	background-color: #AAE899;
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+#erros {
+	background-color: #FEC6CF;	
+}
