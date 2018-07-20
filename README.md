@@ -13,8 +13,4 @@ customers can view the comments of another customers, independently if the web
 page has similar functionality.
 
 
-
-![](github-resources/06 listagem comentarios.png)
-
-
-[![Application Demo](github-resources/video.gif)](https://youtu.be/l5S1lGfJ7Nc)
+[![Application Demo](github-resources/video.gif)](https://youtu.be/A8ZUE-vvcok)
